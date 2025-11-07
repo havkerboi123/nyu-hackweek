@@ -1,0 +1,16 @@
+# Credentials
+credentials.json
+reports_credentials.json
+c2.json
+*.json
+
+# Environment variables
+.env
+.env.*
+*.env
+
+# Python
+venv/
+myenv/
+__pycache__/
+*.pyc
